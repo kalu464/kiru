@@ -1,0 +1,31 @@
+{
+  "chatStates": {
+    "120363425510092197@g.us": {
+      "active": false,
+      "subadmins": [],
+      "disbandDelayMs": null,
+      "lockedUsers": [],
+      "ttsLang": "en",
+      "startedAt": null
+    },
+    "168835885826270@lid": {
+      "active": true,
+      "subadmins": [],
+      "disbandDelayMs": null,
+      "lockedUsers": [],
+      "ttsLang": "en",
+      "startedAt": 1779894335206
+    },
+    "233715359842441@lid": {
+      "active": false,
+      "subadmins": [],
+      "disbandDelayMs": null,
+      "lockedUsers": [],
+      "ttsLang": "en",
+      "startedAt": null
+    }
+  },
+  "adminNumber": "168835885826270",
+  "globalSubadmins": [],
+  "botNumber": "918929658807"
+}
