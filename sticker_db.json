@@ -1,0 +1,149 @@
+{
+  "kiss": [
+    {
+      "file": "kiss_1.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "kiss_2.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    }
+  ],
+  "bite": [
+    {
+      "file": "bite_1.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    }
+  ],
+  "fuck": [
+    {
+      "file": "fuck_1.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "fuck_2.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    }
+  ],
+  "daily": [
+    {
+      "file": "daily_1.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "daily_2.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "daily_3.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "daily_4.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "daily_5.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "daily_6.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "daily_7.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "daily_8.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "daily_9.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    }
+  ],
+  "roast": [
+    {
+      "file": "roast_1.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "roast_2.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "roast_3.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "roast_4.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "roast_5.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "roast_6.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "roast_7.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "roast_8.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "roast_9.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "roast_10.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    }
+  ],
+  "happy": [
+    {
+      "file": "happy_1.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "happy_2.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    },
+    {
+      "file": "happy_3.webp",
+      "type": "sticker",
+      "gifPlayback": false
+    }
+  ]
+}
